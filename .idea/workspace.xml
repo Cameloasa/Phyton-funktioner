@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc79688e-bb21-4e3d-bd19-ba6f2ef5e1a9" name="Changes" comment="my_functions">
-      <change afterPath="$PROJECT_DIR$/game_21.py" afterDir="false" />
+    <list default="true" id="cc79688e-bb21-4e3d-bd19-ba6f2ef5e1a9" name="Changes" comment="game_21">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_21.py" beforeDir="false" afterPath="$PROJECT_DIR$/game_21.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +52,8 @@
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true"
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/TestAutomatisering/ProjectsPyCharm/pythonProjectBroCode"
   }
 }]]></component>
   <component name="RunManager">
@@ -143,13 +144,22 @@
       <option name="project" value="LOCAL" />
       <updated>1738234570023</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="game_21">
+      <option name="closed" value="true" />
+      <created>1738235809361</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1738235809361</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="diskussion" />
     <MESSAGE value="my_functions" />
-    <option name="LAST_COMMIT_MESSAGE" value="my_functions" />
+    <MESSAGE value="game_21" />
+    <option name="LAST_COMMIT_MESSAGE" value="game_21" />
   </component>
 </project>
