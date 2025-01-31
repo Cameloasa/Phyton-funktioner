@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc79688e-bb21-4e3d-bd19-ba6f2ef5e1a9" name="Changes" comment="game_21">
+      <change afterPath="$PROJECT_DIR$/game_21_func.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/play_pocker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtle_ex.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_21.py" beforeDir="false" afterPath="$PROJECT_DIR$/game_21.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +51,10 @@
     "Python.disskusion.executor": "Run",
     "Python.funktioner.executor": "Run",
     "Python.game_21.executor": "Run",
+    "Python.game_21_func.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.play_pocker.executor": "Run",
+    "Python.turtle_ex.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
@@ -152,7 +157,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738235809361</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="game_21">
+      <option name="closed" value="true" />
+      <created>1738246389236</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1738246389237</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
