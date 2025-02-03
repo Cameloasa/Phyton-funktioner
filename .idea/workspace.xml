@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc79688e-bb21-4e3d-bd19-ba6f2ef5e1a9" name="Changes" comment="game_21">
-      <change afterPath="$PROJECT_DIR$/game_21_func.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/play_pocker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/turtle_ex.py" afterDir="false" />
+    <list default="true" id="cc79688e-bb21-4e3d-bd19-ba6f2ef5e1a9" name="Changes" comment="play_poker some functions">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/play_poker.py" beforeDir="false" afterPath="$PROJECT_DIR$/play_poker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtle_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/turtle_ex.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,21 +45,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.disskusion.executor": "Run",
-    "Python.funktioner.executor": "Run",
-    "Python.game_21.executor": "Run",
-    "Python.game_21_func.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.play_pocker.executor": "Run",
-    "Python.turtle_ex.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/TestAutomatisering/ProjectsPyCharm/pythonProjectBroCode"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.diskussion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.disskusion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.funktioner.executor&quot;: &quot;Run&quot;,
+    &quot;Python.game_21.executor&quot;: &quot;Run&quot;,
+    &quot;Python.game_21_func.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.play_pocker.executor&quot;: &quot;Run&quot;,
+    &quot;Python.play_poker.executor&quot;: &quot;Run&quot;,
+    &quot;Python.turtle_ex.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/TestAutomatisering/ProjectsPyCharm/pythonProjectBroCode&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonFunktioner" />
@@ -165,7 +166,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738246389237</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="play_poker some functions">
+      <option name="closed" value="true" />
+      <created>1738334433045</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1738334433045</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -173,6 +182,7 @@
     <MESSAGE value="diskussion" />
     <MESSAGE value="my_functions" />
     <MESSAGE value="game_21" />
-    <option name="LAST_COMMIT_MESSAGE" value="game_21" />
+    <MESSAGE value="play_poker some functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="play_poker some functions" />
   </component>
 </project>

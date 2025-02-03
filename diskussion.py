@@ -19,6 +19,12 @@ result = fun1(3,5)
 print(result) # 15
 print("****************")
 
+def fun1(x, y):
+    return x * y
+
+print(fun1(x=3,y= 5)) # (3,5)
+print("****************")
+
 #1c
 def fun1(x, y):
     return x * y

@@ -1,5 +1,6 @@
 import turtle as t
 
+# Turtle doesn't work with my PYCharm
 # Upprepa 3 gånger
 for x in range(3):
     t.forward(100)
